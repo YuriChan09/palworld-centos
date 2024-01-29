@@ -8,7 +8,7 @@ wget -O - https://raw.githubusercontent.com/YuriChan09/palworld-centos/main/depl
 ```
 or
 ```bash
-curl https://raw.githubusercontent.com/YuriChan09/palworld-centos/main/deploy.sh | sh
+curl -sqL https://raw.githubusercontent.com/YuriChan09/palworld-centos/main/deploy.sh | sh
 ```
 
 Don't forget to allow UDP on port 8211.
