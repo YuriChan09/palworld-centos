@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cat << EOF >> ~/.bashrc
 pal_config=/home/steam/Steam/steamapps/common/PalServer/Pal/Saved/Config/LinuxServer/PalWorldSettings.ini
 default_pal_config=/home/steam/Steam/steamapps/common/PalServer/DefaultPalWorldSettings.ini 
