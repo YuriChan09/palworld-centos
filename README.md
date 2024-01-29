@@ -4,7 +4,7 @@ A script to deploy a Palworld server on CentOS. The server will run as a systemd
 ## How to use
 Connect to your server, then type
 ```bash
-wget -O - xxx.sh|sh
+wget -O - https://raw.githubusercontent.com/YuriChan09/palworld-centos/main/deploy.sh|sh
 ```
 Don't forget to allow UDP on port 8211.
 ## Thanks
